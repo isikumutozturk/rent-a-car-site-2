@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E9ECEF;
+}
+
+.list{
+    list-style-position: inside
+}
+
+.orange {
+    color: #fd7e14;
+}
+
+.fs-60 {
+    font-size: 60px;
+    font-weight:400;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
